@@ -5,24 +5,6 @@ Ideal for internal business tools, CMS applications, and scalable admin interfac
 
 ---
 
-## 📌 Table of Contents
-
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Folder Structure](#folder-structure)
-- [CRUD Modules](#crud-modules)
-- [Localization](#localization)
-- [Frontend Integration](#frontend-integration)
-- [Admin User Login](#admin-user-login)
-- [Screenshots (Optional)](#screenshots)
-- [Contributing](#contributing)
-- [Developer](#developer)
-
----
-
 ## 📝 About the Project
 
 This Laravel project is a clean and professional **Admin Dashboard** that supports:
